@@ -1,4 +1,5 @@
 🚀 PCA Analysis of Solar System Planets 🌍🌕🪐
+
 This repository contains a Python script that performs Principal Component Analysis (PCA) on Solar System planet data. Using the scikit-learn library, the script standardizes the data, computes the covariance matrix, extracts eigenvalues and eigenvectors, and generates a 3D visualization of the PCA projection.
 
 📌 Features
